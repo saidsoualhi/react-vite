@@ -5,7 +5,9 @@
 
 ## Usage
 
-Install the dependencies:
+1- Clone the project.
+
+2- Install the dependencies:
 
    ```sh
    npm i
