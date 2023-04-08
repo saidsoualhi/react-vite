@@ -5,12 +5,12 @@
 
 ## Usage
 
-1- Clone the project.
+1. Clone the project.
 
-2- Install the dependencies:
+2. Install the dependencies:
 
    ```sh
    npm i
    ```
 
-2. Change the name, description, author, license, links in `package.json`.
+3. Change the name, description, author, license, links in `package.json`.
